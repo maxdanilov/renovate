@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`datasource/jenkins getReleases returns package releases for a hit 1`] = `
+Object {
+  "name": "email-ext",
+  "releases": Array [
+    Object {
+      "version": "2.67",
+    },
+    Object {
+      "version": "2.69",
+    },
+  ],
+  "sourceUrl": "https://github.com/jenkinsci/email-ext-plugin",
+}
+`;
